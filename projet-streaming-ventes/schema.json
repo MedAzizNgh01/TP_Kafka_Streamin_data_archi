@@ -1,0 +1,12 @@
+{
+    "tables": {
+        "ventes": {
+            "columns": [
+                {"name": "date_vente", "type": "VARCHAR"},
+                {"name": "montant_vente", "type": "DECIMAL(10,2)"},
+                {"name": "produit", "type": "VARCHAR"},
+                {"name": "region", "type": "VARCHAR"}
+            ]
+        }
+    }
+}
